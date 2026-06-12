@@ -1,0 +1,11 @@
+.env
+venv/
+.idea/
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+checkpoints.db
+*.db
+*.sqlite
+.DS_Store
