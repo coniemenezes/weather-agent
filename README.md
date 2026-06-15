@@ -1,6 +1,8 @@
-# Weather Agent
+# Weather Agent 🌤️
 
-AI-powered weather assistant built with Python, Gemini, LangChain and LangGraph.
+AI-powered weather assistant built with Python, Flask, Gemini, LangChain and LangGraph.
+
+![Weather Agent](docs/weather-agent.png)
 
 ## Features
 
