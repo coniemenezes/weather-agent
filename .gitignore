@@ -9,3 +9,5 @@ checkpoints.db
 *.db
 *.sqlite
 .DS_Store
+.venv/
+__pycache__/
